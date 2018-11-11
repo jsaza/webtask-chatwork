@@ -1,0 +1,2 @@
+# webtask-chatwork
+webtask.ioのschedulerを使ってchatworkに新しいメッセージを送信する
